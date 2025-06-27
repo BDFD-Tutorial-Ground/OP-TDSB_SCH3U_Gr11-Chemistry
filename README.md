@@ -2,7 +2,7 @@
  * @Date         : 2025-06-27 10:24:22
  * @Author       : BDFD,bdfd2005@gmail.com
  * @Github       : https://github.com/bdfd
- * @LastEditTime : 2025-06-27 11:09:16
+ * @LastEditTime : 2025-06-27 11:49:47
  * @LastEditors  : <BDFD>
  * @Description  :
  * @FilePath     : \README.md
@@ -43,17 +43,16 @@ This course enables students to deepen their understanding of chemistry through 
 
 The courses enlisted as follows:
 
-- [ ] **M1-Kinematics**
-- [ ] **M2-Dynamics**
-- [ ] **M3-Energy**
-- [ ] **M4-Linear Momentum**
-- [ ] **M5-Rotational Motion**
-- [ ] **M6-Angular Momentum**
+- [ ] **C1-Matter, Chemical Trends, and Chemical Bonding**
+- [ ] **C2-Chemical Reactions**
+- [ ] **C3-Quantities in Chemical Reactionss**
+- [ ] **C4-Solutions and Solubility**
+- [ ] **C5-Gases and Atmospheric Chemistry**
 
 ## Course Description: 1 Course
 
-University Enrolled : University of Waterloo  
-<img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/University_of_Waterloo.png" alt="bdfd" />
+High School Enrolled : TDSB High School Gr 11 Chemistry  
+<img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/Toronto_District_School_Board_Logo.png" alt="TDSB Logo" />
 
 Main Instructor:
 
@@ -65,14 +64,22 @@ Main Instructor:
 
 **Add-on Resources:**
 
-1. Mastering Physics on-line homework system
+1. Microsoft Excel
 2. Scientific Calculator
+3. TI-83+ Graphing Calculator
 
 **Projects:**
 
 #### Useful Resources
 
-- [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science)
+These channels will likely have videos covering our course content that tend to be clear and at course level. Please use these as one of the HELP options when you are struggling.
+
+- [Reference Course Link-1[Melissa Maribel]](https://www.youtube.com/@melissamaribel)
+  -chemistry concepts in Organic Chemistry
+- [Reference Course Link-2[Tyler DeWitt]](https://www.youtube.com/@tdewitt451)
+  -chemistry course related in high school, college, AP or IB courses
+- [Reference Course Link-3[Chemfuzzled]](https://www.youtube.com/@chemfuzzled)
+  -chemistry concepts from grades 10 to 12 of the Ontario curriculum
 
 <div align="center">
 
