@@ -2,7 +2,7 @@
  * @Date         : 2025-06-27 10:24:22
  * @Author       : BDFD,bdfd2005@gmail.com
  * @Github       : https://github.com/bdfd
- * @LastEditTime : 2025-06-27 10:33:35
+ * @LastEditTime : 2025-06-27 11:09:16
  * @LastEditors  : <BDFD>
  * @Description  :
  * @FilePath     : \README.md
@@ -32,9 +32,12 @@ This course enables students to deepen their understanding of chemistry through 
 - [ ] **P1-Textbook(Publisher/Year)**
 - [ ] **P2-Solution Mannual(Publisher/Year)**
 - [ ] **P3-Lecture Handout(Self Prepared for Publisher/Year)**
-- [ ] **P4-Project Plan(Self Prepare)**
-- [ ] **P5-Unit Test Review Question(Publisher/Year)**
-- [ ] **P6-Exam Review Question(Publisher/Year)**
+- [ ] **P4-Problem Set(Providers/Year)**
+- [ ] **P5-Course Project(Providers/Year)**
+- [ ] **P6-Past Quiz(Providers/Year)**
+- [ ] **P7-Past Test(Providers/Year)**
+- [ ] **P8-Past Exam(Providers/Year)**
+- [ ] **P9-Reference Note/Book(Publisher or Providers/Year)**
 
 ## Course Learn Path - Modules
 
@@ -53,9 +56,6 @@ University Enrolled : University of Waterloo
 <img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/University_of_Waterloo.png" alt="bdfd" />
 
 Main Instructor:
-
-1. Lecture Facilitator - Prof. Richard Epp
-2. Workshop Facilitator - Prof. Karen Cummings
 
 ## Applied Learning Project
 
